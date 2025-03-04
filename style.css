@@ -9,6 +9,8 @@ body{
     justify-content: center;
     align-items: center;
     margin: 0 auto;
+    border-radius: 20px;
+    box-shadow: rgb(103, 103, 246) 0px 0px 25px;
 }
 h1{
     color:purple;
